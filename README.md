@@ -1,7 +1,7 @@
 # Meld Ost
 A mod which replaces a portion of the vanilla soundtrack with meld tracks.
 
-Please Do NOT reupload theese tracks, I do not want to have to figure out a new EBoy Plays situation...
+Please do not reupload theese tracks without permission
 Im only adding tracks I've uploaded to a platform before, links to each one will be next to the track replacements.
 
 
