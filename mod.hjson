@@ -1,0 +1,20 @@
+name: meldost
+displayName: "[[]#ea9ad6]Meld OST[[]]"
+version: storm pt 1
+minGameVersion: 146
+author: Sh1penfire
+description:
+    '''
+A mod which replaces a portion of the vanilla soundtrack with meld tracks.
+The list of tracks replaced is below
+
+Ambiant tracks
+Game 1 > Bygone by Sh1p
+
+Dark tracks
+Game 4 > Shifting Sancturary by Sh1p
+
+Guardian tracks
+Boss 1 > Relapse (1) by Sh1p
+    '''
+hidden: true
