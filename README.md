@@ -5,7 +5,7 @@ If you do upload tracks without a link just give credit, I think I was too anxio
 Added some of the Frostscape soundtrack in because it fit the general mood
 
 
-(Meld originating)
+# Meld originating
 ## Ambiant tracks
 Game 1 > Bygone by Sh1p
 https://www.youtube.com/watch?v=-eJxKytqVGk
@@ -21,7 +21,7 @@ Boss 2 > Relapse (1) by Sh1p
 https://www.youtube.com/watch?v=_tRHZ2u88-U
 
 
-(Frostscape originating)
+# Frostscape originating
 ## Ambiant tracks
 Game 3 > Technophillic by Sh1p
 
