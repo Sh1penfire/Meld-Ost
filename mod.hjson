@@ -3,18 +3,38 @@ displayName: "[[]#ea9ad6]Meld OST[[]]"
 version: storm pt 1
 minGameVersion: 146
 author: Sh1penfire
+hidden: true
 description:
     '''
-A mod which replaces a portion of the vanilla soundtrack with meld tracks.
+A mod which replaces a portion of the vanilla soundtrack with meld tracks, and some Frostscape tracks I thought would fit.
 The list of tracks replaced is below
 
 Ambiant tracks
 Game 1 > Bygone by Sh1p
 
+Game 3 > Technophillic by Sh1p
+
+Game 6 > Omnipresent Glare by Sh1p
+
+Game 8 > Sightings by Sh1p
+
+Game 9 > Windswept Dreamscape by Sh1p
+
+fine > Drizzle by Sh1p
+
 Dark tracks
 Game 4 > Shifting Sancturary by Sh1p
 
+Game 7 > Infiltration by Sh1p
+
+Game 2 > Murk by Sh1p
+
+Game 5 > Imperialist by Sh1p
+
 Guardian tracks
-Boss 1 > Relapse (1) by Sh1p
+Boss 1 > Through the storm by Sh1p
+
+Boss 2 > Relapse (1) by Sh1p
+
     '''
 hidden: true
